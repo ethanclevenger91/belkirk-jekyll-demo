@@ -36,3 +36,6 @@ fields:
   type: text
   hidden: true
   default: person
+- type: boolean
+  name: show_headshot
+  label: Show Headshot
